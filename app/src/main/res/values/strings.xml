@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="smart">SMART</string>
+    <string name="cal">Calculator</string>
+    <string name="input" ></string>
+    <string name="output">0</string>
+</resources>
